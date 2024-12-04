@@ -1,2 +1,2 @@
 # odin-recipes
-Using html knowledge 
+Using basic HTML knowledge to build a recipe website of my favourite dishes
